@@ -6,7 +6,7 @@
 namespace fs = std::filesystem;
 
 
-const std::string LOG_FILE = "logs_2024.log"; // Fixed log file name as per problem statement
+const std::string LOG_FILE = "logs_2024.log";
 const std::string OUTPUT_DIR = "../output";
 
 void extractLogs(const std::string& targetDate) {
